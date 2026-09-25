@@ -20,29 +20,10 @@ This project was built while learning CI/CD concepts and understanding how the d
 
 ## 🔄 Pipeline Flow
 
-```text
-Developer
-   ↓
-GitHub
-   ↓
-Jenkins
-   ↓
-Docker Build
-   ↓
-SonarQube
-   ↓
-OWASP / Trivy Security Checks
-   ↓
-Docker Image
-   ↓
-GitOps Update
-   ↓
-Argo CD
-   ↓
-Kubernetes / AWS EKS
-   ↓
-Application
-```
+### <mark>Project Deployment Flow:</mark>
+<img src="https://github.com/DevMadhup/Wanderlust-Mega-Project/blob/main/Assets/DevSecOps%2BGitOps.gif" />
+
+#
 
 ## 🏗️ What I Worked On
 
