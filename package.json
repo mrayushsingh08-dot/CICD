@@ -11,3 +11,4 @@
     "installer": "npm i && npm run install-backend && npm run install-frontend"
   }
 }
+
