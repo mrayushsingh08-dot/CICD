@@ -48,15 +48,15 @@ I also worked through different configuration and deployment issues during the s
 
 ### CI Pipeline
 
-![CI Pipeline](https://github.com/mrayushsingh08-dot/CICD/blob/main/Assets/image.png?raw=true)
+![CI Pipeline](https://github.com/mrayushsingh08-dot/CICD/blob/main/Assets/image%202.jpeg)
 
 ### CD Pipeline
 
-![CD Pipeline](PASTE_YOUR_CD_IMAGE_LINK_HERE)
+![CD Pipeline](https://github.com/mrayushsingh08-dot/CICD/blob/main/Assets/cd.png)
 
 ### Argo CD
 
-![Argo CD](PASTE_YOUR_ARGO_IMAGE_LINK_HERE)
+![Argo CD](https://github.com/mrayushsingh08-dot/CICD/blob/main/Assets/image1.png)
 
 ## 🧰 Key Learning
 
