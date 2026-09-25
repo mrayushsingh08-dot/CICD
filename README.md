@@ -48,7 +48,7 @@ I also worked through different configuration and deployment issues during the s
 
 ### CI Pipeline
 
-![CI Pipeline](PASTE_YOUR_CI_IMAGE_LINK_HERE)
+![CI Pipeline](https://github.com/mrayushsingh08-dot/CICD/blob/main/Assets/image.png?raw=true)
 
 ### CD Pipeline
 
