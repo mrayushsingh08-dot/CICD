@@ -22,7 +22,6 @@ connectDB();
 // Connect to redis
 connectToRedis();
 
-// API route
 app.use('/api/posts', postsRouter);
 app.use('/api/auth', authRouter);
 
