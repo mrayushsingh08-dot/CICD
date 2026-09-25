@@ -64,7 +64,7 @@ pipeline {
                         echo "Adding changes to git: "
                         git add .
                         
-                        echo "Commiting changes: "
+                        echo "Commitingg changes: "
                         git commit -m "Updated environment variables"
                         
                         echo "Pushing changes to github: "
@@ -123,3 +123,4 @@ pipeline {
         }
     }
 }
+
