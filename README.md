@@ -58,6 +58,15 @@ I also worked through different configuration and deployment issues during the s
 
 ![Argo CD](https://github.com/mrayushsingh08-dot/CICD/blob/main/Assets/image1.png)
 
+### Docker
+
+![Docker](https://github.com/mrayushsingh08-dot/CICD/blob/main/Assets/docker.jpeg?raw=true)
+
+### AWS 
+
+![AWS](https://github.com/mrayushsingh08-dot/CICD/blob/main/Assets/aws.jpeg)
+
+
 ## 🧰 Key Learning
 
 This project gave me hands-on exposure to:
